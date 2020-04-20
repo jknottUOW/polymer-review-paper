@@ -1,94 +1,204 @@
-﻿UID,publication_year,author_corresponding,class,subclass,material,manufacturing_method,processing_method,salt,solvent_class,solvent,conductivity_(20-30)degC ,transferrence_number,temperature_decomposition,temperature_melting,voltage_window,electrolyte_uptake,strength_tensile_plasticized,strength_tensile_dry,elongation_max,porosity,gurley_number,Notes,reference,URL,DOI,
-69,2010,Hashmi,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaCF3SO3,Ionic liquid,EMITf,5.74E-03,0.23,340,95,-2.5 – 2.5,NaN,NaN,NaN,NaN,NaN,NaN,,1,doi.org/10.1016/j.ssi.2010.01.025,10.1016/j.ssi.2010.01.025,
-70,2014,Isa ,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaCF3SO3,Non-aqueous,EC:PC,2.50E-03,NaN,461,150,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,2,doi.org/10.4028/www.scientific.net/KEM.594-595.786,10.4028/www.scientific.net/KEM.594-595.786,
-40,2015,MacFarlane,Other,Other,Fumed silica,Purchased,Solvent casting,NaNTf2,Ionic liquid,[C4mpyr][NTf2],1.10E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,3,doi.org/10.1016/j.electacta.2015.03.024,10.1016/j.electacta.2015.03.024,
-57,2015,MacFarlane,PMMA,Polyacrylate,PMMA,Radical polymerization,Solvent casting,NaNTf2,Ionic liquid,[C4mpyr][NTf2],1.10E-03,NaN,NaN,NaN,0 - 2.5,NaN,NaN,NaN,NaN,NaN,NaN,,3,doi.org/10.1016/j.electacta.2015.03.024,10.1016/j.electacta.2015.03.024,
-20,2016,Quesnel,Mix,Mix,PMMA:Polycarbonate (1:1),Purchased,Solvent casting,NaBF4,Non-aqueous,1:2 EC:PC,5.67E-04,NaN,NaN,NaN,-5 to 5,NaN,NaN,NaN,NaN,NaN,NaN,,4,http://doi.org/10.1039/C5RA23864A,10.1039/C5RA23864A,
-58,2016,Goodenough,PMMA,Polyacrylate,Cross-linked PMMA,Radical polymerization,Solvent casting,NaClO4,Non-aqueous,PC:FEC (9:1),5.67E-04,NaN,200,NaN,0 to 4.8 ,NaN,NaN,NaN,NaN,NaN,NaN,,5,https://doi.org/10.1002/aenm.201600467,10.1002/aenm.201600467,
-7,2015,Goodenough,GF,GF,GF,Purchased,Used as purchased,NaClO4,Non-aqueous,PC,5.90E-03,NaN,200,NaN,NaN,NaN,NaN,4.8,NaN,NaN,NaN,,6,https://doi.org/10.1002/aenm.201402235,10.1002/aenm.201402235,
-14,2015,Goodenough,GF composite,PVdF-HFP composite,Glass-fiber/PVDF-HFP composite.,Purchased,Solvent casting,NaClO4,Non-aqueous,PC,4.60E-03,NaN,200,150,2 - 4.8,345%,NaN,20.9,NaN,NaN,NaN,,6,https://doi.org/10.1002/aenm.201402235,10.1002/aenm.201402235,
-15,2015,Goodenough,GF composite,PVdF-HFP composite,"Glass-fiber/PVDF-HFP composite, polydopamine coated",Purchased,Solvent casting + dip coating,NaClO4,Non-aqueous,PC,5.40E-03,NaN,200,150,2 - 4.8,270%,NaN,21.6,2.9,NaN,NaN,,6,https://doi.org/10.1002/aenm.201402235,10.1002/aenm.201402235,
-71,2015,Wu,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:DMC:DEC (1:1:1),6.00E-04,0.3,NaN,130,0 - 4.6,112%,NaN,7.6,148,61,NaN,,7,https://doi.org/10.1016/j.ssi.2014.11.015,10.1016/j.ssi.2014.11.015,
-63,2017,Wu,Polyolefin,Celgard,Celgard 2730,Purchased,Used as purchased,NaClO4,Non-aqueous,EC:DMC:DEC (1:1:1),1.60E-04,0.17,NaN,165,NaN,94%,NaN,35.3,92.1,43,NaN,,8,https://doi.org/10.1016/j.electacta.2016.12.030,10.1016/j.electacta.2016.12.030,
-72,2017,Wu,Polyolefin composite,PVdF-HFP composite,PVdF-HFP with embedded nonwoven PP,Evaporation-induced phase inversion,Solvent casting,NaClO4,Non-aqueous,EC:DMC:DEC (1:1:1),8.20E-04,0.55,NaN,144,0 - 4.8,151%,NaN,29,32.6,66,NaN,,8,https://doi.org/10.1016/j.electacta.2016.12.030,10.1016/j.electacta.2016.12.030,
-87,2017,Cheng,Mix,Single-ion conductor,PVdF-HFP blended with Polysulfonyl imide - diamino benzenesulfonic acid copolymer,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:DEC,9.10E-05,0.83,400,NaN,0 - 6,NaN,NaN,14.44,7.77,NaN,NaN,,9,https://doi.org/10.1016/j.ssi.2016.12.001,10.1016/j.ssi.2016.12.001,
-16,2017,Park,GF composite,PVdF-HFP composite,PVdF-HFP coated onto glass fiber,Nonsolvent-induced phase separation,Dip-coating,NaClO4,Non-aqueous,EC:PC,3.80E-03,NaN,NaN,NaN,2 - 4.83,NaN,NaN,NaN,NaN,88,20,,10,https://doi.org/10.1002/adfm.201701768,10.1002/adfm.201701768,
-64,2018,Kim,Polyolefin,Polyolefin,Polyethylene membrane (Asahi),Purchased,Used as purchased,NaClO4,Non-aqueous,EC:PC,1.00E-04,NaN,NaN,NaN,5 - 4.5,NaN,NaN,NaN,NaN,NaN,NaN,Characterized contact angle & heat shrinkage,11,https://doi.org/10.1016/j.jpowsour.2017.11.083,10.1016/j.jpowsour.2017.11.083,
-67,2018,Kim,Polyolefin composite,Polyolefin,PE coated with PVdF-HFP,Purchased,Dip-coating,NaClO4,Non-aqueous,EC:PC,5.00E-04,NaN,NaN,NaN,4 - 4.5,NaN,NaN,NaN,NaN,NaN,NaN,Characterized contact angle & heat shrinkage,11,https://doi.org/10.1016/j.jpowsour.2017.11.083,10.1016/j.jpowsour.2017.11.083,
-68,2018,Kim,Polyolefin composite,Polyolefin,PE coated with PVdF-HFP + ZrO2 additives,Purchased,Dip-coating,NaClO4,Non-aqueous,EC:PC,7.00E-04,NaN,NaN,NaN,3 - 4.5,NaN,NaN,NaN,NaN,NaN,309,Characterized contact angle & heat shrinkage,11,https://doi.org/10.1016/j.jpowsour.2017.11.083,10.1016/j.jpowsour.2017.11.083,
-17,2018,Zheng,GF composite,Polyacrylate composite,"GF separator impregnated with PMMA / trifluoroethyl methacrylate, crosslinked with a phosphonate",Not Specified,In-situ polymerization on GF separator,NaClO4,Non-aqueous,EC:PC + 5%FEC,6.29E-03,NaN,320,NaN,0 - 4.9,NaN,NaN,NaN,NaN,NaN,NaN,Characterised self-extinguishing time and flame propagation,12,http://doi.org/10.1039/C8TA00530C,10.1039/C8TA00530C,
-8,2018,Park,GF,GF,Glass fiber (control),Purchased,Used as purchased,NaClO4,Non-aqueous,EC:PC,4.50E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,90,2,,13,https://doi.org/10.1016/j.memsci.2018.08.066,10.1016/j.memsci.2018.08.066,
-18,2018,Park,GF composite,PVdF-HFP composite,PVdF-HFP coated onto glass fiber,Nonsolvent-induced phase separation,Dip-coating,NaClO4,Non-aqueous,EC:PC,4.10E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,89,15,,13,https://doi.org/10.1016/j.memsci.2018.08.066,10.1016/j.memsci.2018.08.066,
-65,2018,Janakiraman,Polyolefin,Celgard,Celgard 2400,Purchased,Used as purchased,NaClO4,Non-aqueous,EC:DEC,3.60E-05,NaN,NaN,165,2 - 4.0,70%,NaN,NaN,NaN,43,NaN,,14,https://doi.org/10.1016/j.jelechem.2018.08.032,10.1016/j.jelechem.2018.08.032,
-73,2018,Janakiraman,PVdF-HFP,PVdF-HFP,"PVdF-HFP, electrospun",Electrospinning,Electrospinning,NaClO4,Non-aqueous,EC:DEC,1.13E-03,NaN,NaN,140,1 - 4.8,320%,NaN,NaN,NaN,83,NaN,,14,https://doi.org/10.1016/j.jelechem.2018.08.032,10.1016/j.jelechem.2018.08.032,
-88,2019,Cui,Mix,Single-ion conductor,Polymeric sodium tartaric acid borate – poly(vinyl carbonate) blend with embedded nonwoven PET,Purchased,Solvent casting,NaN,Non-aqueous,EC:DEC,1.00E-04,0.88,372,NaN,1 - 4.5,NaN,NaN,NaN,NaN,NaN,NaN,,15,https://doi.org/10.1016/j.ssi.2019.04.022,10.1016/j.ssi.2019.04.022,
-9,2019,Zheng,GF,GF,GF,Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0.6,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.memsci.2019.04.044,10.1016/j.memsci.2019.04.044,
-19,2019,Zheng,GF composite,Polyacrylate composite,"Copolymer of methyl phosphonate, TFMA, MMA",Not Specified,In-situ polymerization on GF separator,NaClO4,Non-aqueous,EC:PC+5%Fec,5.13E-03,NaN,250,NaN,0 - 5,NaN,NaN,2.9,8,NaN,NaN,,16,https://doi.org/10.1016/j.memsci.2019.04.044,10.1016/j.memsci.2019.04.044,
-46,2017,Vignarooban,PAN,PAN,PAN,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:PC,4.50E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,18,https://doi.org/10.1007/s11581-017-2002-4,10.1007/s11581-017-2002-4,
-47,2018,Jou-Hyeon Ahn,PAN,PAN,PAN,Ball milling,Electrospinning,NaClO4,Non-aqueous,EC:PC:DME (1:1:1),7.50E-04,NaN,400,NaN,2 - 4.9,440%,NaN,NaN,NaN,82,NaN,RT conductivity reported as both 0.75 and 3.01 in plot/text of paper,19,https://doi.org/10.1021/acssuschemeng.7b04561,10.1021/acssuschemeng.7b04561,
-48,2016,Jyothi,PAN,PAN,PAN,Purchased,Solvent casting,NaI,Non-aqueous,EC,2.35E-04,NaN,NaN,317,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,20,https://doi.org/10.1007/s12648-015-0758-9,10.1007/s12648-015-0758-9,
-21,2003,Chandrasekaran,Mix,Mix,PEG-4000/PVP (1:1),Purchased,Solvent casting,NaClO4,Non-aqueous,DMF,1.06E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1007/BF02376592,10.1007/BF02376592,
-22,2003,Chandrasekaran,Mix,Mix,PEG-4000/PVP (1:1),Purchased,Solvent casting,NaClO4,Non-aqueous,PC,1.89E-05,NaN,NaN,NaN,-1 - 1,NaN,NaN,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1007/BF02376593,10.1007/BF02376593,
-41,2013,Lei Li,Other,Sulfonate,Perfluorosulfonate,Not Specified,Not Specified,NaClO4,Non-aqueous,EC:PC,3.50E-04,NaN,NaN,NaN,1 - 4.5,144%,NaN,NaN,NaN,NaN,NaN,,22,http://doi.org/10.1039/C3CC47549B,10.1039/C3CC47549B,
-89,2014,Lei Li,Nafion,Single-ion conductor,Nafion,Purchased + ion exchange (aqueous),Used as purchased,none,Non-aqueous,EC:PC,3.52E-04,NaN,NaN,NaN,NaN,163%,NaN,NaN,NaN,NaN,NaN,,23,https://doi.org/10.1016/j.ijhydene.2013.12.119,10.1016/j.ijhydene.2013.12.119,
-61,2017,Feiyu Kang,Poly(IL),Poly(IL),Nested poly(IL)s,In situ polymerization,Solvent casting,NaTFSI,Ionic liquid,EMIM TFSI,1.15E-03,0.22,NaN,NaN,0 - 4.6,251%,NaN,2.4,17,57.5,NaN,,24,https://doi.org/10.1016/j.nanoen.2017.01.027,10.1016/j.nanoen.2017.01.027,
-42,2015,Gerbaldi,Other,Polyacrylate,PEGMA-BEMA copolymer,UV curing,Solvent casting,NaClO4,Non-aqueous,PC,5.10E-03,0.53,350,NaN,0 - 4.6,NaN,NaN,NaN,NaN,NaN,NaN,,25,https://doi.org/10.1002/cssc.201500873,10.1002/cssc.201500873,
-75,2019,My Loan Phung Le,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaPF6,Non-aqueous,PC,1.47E-03,NaN,NaN,NaN,2 - 4.2,150%,NaN,NaN,NaN,87,NaN,,26,https://doi.org/10.1016/j.mseb.2019.02.007,10.1016/j.mseb.2019.02.007,
-76,2019,My Loan Phung Le,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaClO4,Non-aqueous,PC,1.62E-03,NaN,NaN,NaN,2 - 4.2,160%,NaN,NaN,NaN,82,NaN,,26,https://doi.org/10.1016/j.mseb.2019.02.007,10.1016/j.mseb.2019.02.007,
-77,2019,MacFarlane,PVdF-HFP,PVdF-HFP,PVdF-HPF,Purchased,Solvent casting,NaFSI,Ionic liquid,[C3mpyr][FSI],6.40E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,27,https://doi.org/10.1021/acssuschemeng.8b06212,10.1021/acssuschemeng.8b06212,
-84,2019,Mishra,Mix,PVdF-HFP mix,PVdF-HFP/PPMA (9:1),Purchased,Solvent casting,NaCF3SO3,Non-aqueous,EC:PC,7.50E-04,NaN,NaN,NaN,-1.4 - 2.2,NaN,NaN,NaN,NaN,NaN,NaN,,29,https://doi.org/10.1016/j.matpr.2019.03.106,10.1016/j.matpr.2019.03.106,
-85,2019,Mishra,Mix,PVdF-HFP mix,PVdF-HFP/PPMA (3:2),Purchased,Solvent casting,NaCF3SO4,Non-aqueous,EC:PC,8.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,29,https://doi.org/10.1016/j.matpr.2019.03.106,10.1016/j.matpr.2019.03.106,
-78,2019,Chen,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:PC,1.15E-04,NaN,450,159,2 - 4.75,NaN,NaN,NaN,NaN,NaN,NaN,,30,https://doi.org/10.1002/celc.201900101,10.1002/celc.201900101,
-79,2019,Chen,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaClO4,Ionic liquid,[PP14][TFSI] + EC:PC,8.58E-04,NaN,450,159,2 - 4.75,277.4,NaN,NaN,NaN,NaN,NaN,,30,https://doi.org/10.1002/celc.201900101,10.1002/celc.201900101,
-80,2019,Chen,PVdF-HFP,PVdF-HFP,PVdF-HFP + dopamine coating,Purchased,Solvent casting,NaClO4,Ionic liquid,[PP14][TFSI] + EC:PC,1.09E-03,NaN,450,159,2 - 4.75,282.34%,NaN,NaN,NaN,NaN,NaN,,30,https://doi.org/10.1002/celc.201900101,10.1002/celc.201900101,
-86,1997,Tsutsumi,PVP,PVP,PVP,Radical polymerization (UV),Solvent casting,Sodium deoxycholate,Non-aqueous,NMP,3.00E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,31,https://doi.org/10.1016/S0378-7753(97)02532-9,10.1016/S0378-7753(97)02532-9,
-59,2010,Hashmi,PMMA,Polyacrylate,PMMA,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:PC,3.40E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Used HF range for conductivity,32,https://doi.org/10.1016/j.jpowsour.2010.02.026,10.1016/j.jpowsour.2010.02.026,
-60,2005,Reiter,PMMA,Polyacrylate,PMMA,Radical polymerization,Solvent casting,NaClO4,Non-aqueous,PC,8.00E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,33,https://doi.org/10.1016/j.electacta.2005.02.009,10.1016/j.electacta.2005.02.009,
-51,2017,Shufeng Song,PEO,PEO + NP additives,PEO + 5% SiO2,Ball milling,Solvent casting,NaClO4,Ionic liquid,[EMIM][FSI],8.00E-04,0.61,NaN,NaN,0.5 - 4.2,NaN,NaN,NaN,NaN,NaN,NaN,,35,https://doi.org/10.1039/C6TA11165C,10.1039/C6TA11165C,
-1,2018,Xiangwu Zhang,Polyolefin,Celgard,Celgard 2730 (PE),Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,43,NaN,,36,https://doi.org/10.1016/j.memsci.2018.01.062,10.1016/j.memsci.2018.01.062,
-2,2018,Xiangwu Zhang,Polyolefin,Celgard,Celgard 2400 (PP),Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,40,NaN,,36,https://doi.org/10.1016/j.memsci.2018.01.062,10.1016/j.memsci.2018.01.062,
-3,2018,Xiangwu Zhang,Polyolefin,Celgard,Celgard 2320 (PP/PE/PP),Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,42,NaN,,36,https://doi.org/10.1016/j.memsci.2018.01.062,10.1016/j.memsci.2018.01.062,
-10,2016,Hosseini,GF,GF,GF-A,Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,74,NaN,,37,https://doi.org/10.1021/acs.iecr.5b04930,10.1021/acs.iecr.5b04930,
-11,2016,Hosseini,GF,GF,GF-D,Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,85,NaN,,37,https://doi.org/10.1021/acs.iecr.5b04930,10.1021/acs.iecr.5b04930,
-4,2014,Passerini,Polyolefin,Celgard,Celgard®2325 (PP/PE/PP),Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,570,,38,https://doi.org/10.3390/ijms150814868,10.3390/ijms150814868,
-5,2014,Passerini,Polyolefin,Celgard,Celgard®2500 (PP),Purchased,Used as purchased,NaN,Not Applicable,None,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,180.1,,38,https://doi.org/10.3390/ijms150814868,10.3390/ijms150814868,
-52,2019,Tomonori Saito,PEO,"PEO, crosslinked",Crosslinked PEGDGE & Jeffamine (2:1),Polymerization in solution at RT,Solvent casting,NaOTf,Non-aqueous,TEGDME,2.00E-04,0.3,200,none,0 - 3.8,NaN,0.52,0.92,33,NaN,NaN,,39,https://doi.org/10.1016/j.ensm.2019.06.028,10.1016/j.ensm.2019.06.028,
-6,2019,Feiyu Kang,Ceramic-composite,PVdF-HFP composite,PVdF-HFP coated onto Al2O3 nanowires,Electrospinning,Dip-coating,NaClO4,Non-aqueous,EC:DEC+5%FEC,7.13E-04,0.37,NaN,140,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1038/s41467-019-11960-w,10.1038/s41467-019-11960-w,
-81,2019,Feiyu Kang,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:DEC+5%FEC,6.79E-04,0.21,NaN,145,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1038/s41467-019-11960-w,10.1038/s41467-019-11960-w,
-82,2019,Janakiraman,PVdF-HFP,PVdF-HFP,PVdF-HFP,Purchased,Electrospinning,NaClO4,Non-aqueous,EC:DEC,9.20E-04,0.61,NaN,160,4.3,310%,NaN,NaN,NaN,78,NaN,,42,https://doi.org/10.1016/j.jelechem.2018.12.011,10.1016/j.jelechem.2018.12.011,
-43,2019,Kim,Other,Polyurethane,Polyurethane,Purchased,Solvent casting,NaClO4,Non-aqueous,EC:PC:DEC (5:2:3) + 5% FEC,1.50E-03,0.22,NaN,NaN,0 - 4.7,179%,NaN,6.40,610,NaN,NaN,,43,https://doi.org/10.1002/cssc.201901799,10.1002/cssc.201901799,
-83,2019,Janakiraman,PVdF-HFP,PVdF-HFP,PVdF-HFP,Electrospinning,Electrospinning,NaPF6,Non-aqueous,EC:PC,1.08E-03,NaN,475,NaN,5,381%,NaN,NaN,NaN,78,NaN,,44,https://doi.org/10.1088/2053-1591/ab226a,10.1088/2053-1591/ab226a,
-23,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1),Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,8.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-24,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 2% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,1.15E-03,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-25,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 4% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,1.25E-03,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-26,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 6% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,1.50E-03,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-27,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 8% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,9.50E-04,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-28,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 10% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,1.00E-03,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-29,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 12% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,9.50E-04,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-30,2019,Mishra,Mix,PVdF-HFP blend,PVdF-HFP/PMMA (9:1) + 14% Al2O3,Purchased,Solvent casting,NaOTf,Non-aqueous,EC:PC,7.00E-04,NaN,NaN,NaN,0 - 3.6,NaN,NaN,NaN,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-019-04348-9,10.1007/s10008-019-04348-9,
-53,2018,Singh,PEO,PEO,PEO,Purchased,Solvent casting,NaTFSI,Ionic liquid,BMIMTFSI,4.10E-04,0.39,NaN,60,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,46,https://doi.org/10.1007/s10008-018-3891-5,10.1007/s10008-018-3891-5,
-54,2017,Jayalekshmi,PEO,PEO,PEO,Purchased,Solvent casting,NaNO3,Non-aqueous,EC:PC,1.08E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1007/s11581-017-2332-2,10.1007/s11581-017-2332-2,
-55,2017,Jayalekshmi,PEO,PEO + NP additives,PEO + 8% Al2O3,Purchased,Solvent casting,NaNO3,Non-aqueous,EC:PC,1.86E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1007/s11581-017-2332-2,10.1007/s11581-017-2332-2,
-12,2016,Cui,GF,GF,GF,Purchased,Used as purchased,NaClO4,Non-aqueous,PC,2.60E-03,0.29,NaN,NaN,NaN,NaN,NaN,2,2.4,NaN,NaN,,48,https://doi.org/10.1002/smll.201601530,10.1002/smll.201601530,
-44,2016,Cui,Other,Other,Polysulfonamide‐supported poly(ethylene glycol) divinyl ether ,"Electrospinning of polysulfonamide, immersed in battery electrolyte, then ionic polymerization of TEGDVE",Not Specified,NaClO4,Non-aqueous,PC,1.20E-03,0.46,NaN,NaN,0 - 4.7,NaN,NaN,25.00,3.9,NaN,NaN,,48,https://doi.org/10.1002/smll.201601530,10.1002/smll.201601530,
-66,2016,Cui,Polyolefin,Celgard,PP (Celgard),Purchased,Used as purchased,NaClO4,Non-aqueous,PC,3.60E-04,0.25,NaN,NaN,NaN,NaN,NaN,10.00,NaN,NaN,NaN,,48,https://doi.org/10.1002/smll.201601530,10.1002/smll.201601530,
-13,2017,Park,GF,GF,GF,Purchased,Not Specified,NaClO4,Non-aqueous,EC:DMC,7.90E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,49,https://doi.org/10.1149/2.1031709jes,10.1149/2.1031709jes,
-56,2017,Gerbaldi,PEO,PEO,"PEO, crosslinked",Purchased,solvent casting + hot-pressing + UV curing,NaClO4,Non-aqueous,PC,8.00E-04,0.32,100,NaN,0 - 4.7 V,NaN,NaN,NaN,NaN,NaN,NaN,,50,https://doi.org/10.1016/j.jpowsour.2017.08.079,10.1016/j.jpowsour.2017.08.079,
-49,2019,Weihua Chen,Mix,PAN mix,Silica aerogel - PAN composite,"Electrospinning, hydrolization, immersion in silica sol",Electrospinning,NaClO4,Non-aqueous,EC:PC,1.98E-03,NaN,297.3,NaN,NaN,NaN,NaN,9.60,NaN,85.3,NaN,,51,https://doi.org/10.1016/j.memsci.2019.02.002,10.1016/j.memsci.2019.02.002,
-90,2011,Kreuer,Nafion,Single-ion conductor,Sulfonated poly phenylene‐sulfone,Purchased + ion exchange (aqueous),Not Specified,NaN,Non-aqueous,DMSO,1.50E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,52,https://doi.org/10.1002/cphc.201100506,10.1002/cphc.201100506,
-50,2019,Semenikhin,PAN,PAN copolymer,"Copolymer of PAN, PMA, methyl methacrylate styrene","PAN purchased, copolymerized with other monomers",Solvent casting,NaClO4,Non-aqueous,PC,1.80E-03,0.88,NaN,NaN,0 - 4.5,NaN,NaN,NaN,NaN,NaN,NaN,,53,https://doi.org/10.1016/j.electacta.2019.135512,10.1016/j.electacta.2019.135512,
-62,2019,Mecerreyes,Poly(IL),Poly(IL),Poly(dimethyldiallylammonium),Purchased,Solvent casting,NaFSI,Ionic liquid,C3mpyrFSI,1.50E-03,0.26,NaN,NaN,0 - 4 V,NaN,NaN,NaN,NaN,NaN,NaN,,54,https://doi.org/10.1016/j.memsci.2019.02.074,10.1016/j.memsci.2019.02.074,
-91,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DME,2.30E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-92,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:PC,6.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-93,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:THF,7.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-94,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DMA,4.10E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-95,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DEC:DMA,4.00E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-96,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,PC:DMA:THF,3.60E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-97,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DME,1.50E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-98,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:PC,1.50E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-99,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:THF,2.50E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-100,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DMA,2.40E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-101,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,EC:DEC:DMA,1.35E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-102,2018,Yaroslavtsev,Nafion,Single-ion conductor,Nafion 117,Purchased + ion exchange (aqueous),Used as purchased,NaN,Non-aqueous,PC:DMA:THF,1.25E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.ssi.2018.06.002,10.1016/j.ssi.2018.06.002,
-103,2018,Kumaran,Other,Polyacrylate,Polyacrylamide-co-acrylic acid,Purchased,Solvent casting,NaI,Non-aqueous,PC,1.58E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,56,https://doi.org/10.1007/s11581-018-2448-z,10.1007/s11581-018-2448-z,
-45,2019,Cui,Mix,Polysaccharide,Bacterial cellulose + poly(methyl vinyl ether-alt-maleic anhydride) ,Purchased,Solvent casting,NaClO4,Non-aqueous,PC,2.20E-04,NaN,NaN,NaN,NaN,NaN,NaN,57.7,NaN,NaN,NaN,,57,https://doi.org/10.1007/s12274-019-2369-9,10.1007/s12274-019-2369-9,
+UID,publication_year,author_corresponding,class,subclass,material,molecular_weight,manufacturing_method,processing_method,salt,salt-polymer_ratio,solvating-unit-to-sodium_ratio,conductivity_(20-30)degC,conductivity_(75-85)degC,transference_number,temperature_glass_transition,temperature_melting,temperature_decomposition,voltage_window_reported,tensile_strength,max_elongation,Notes,reference,URL,DOI
+1,2003,Chandrasekaran,Mix,Mix,PVP:PEG (1:1),4000 (PEG),Purchased,Solvent casting,NaClO3,10%,NaN,NaN,1.13E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-,13,https://doi.org/10.1007/BF02376593,10.1007/BF02376593
+2,2018,Saroj,Mix,Mix,PVA-PVP-PEG (5:5:1),"125000 (PVA), 44000 (PVP), 200 (PEG)",Purchased,Solvent casting,NaSO4Me,20%,NaN,1.67E-05,5.62E-05,NaN,50.48,184.25,150.2,-2 - 2,NaN,NaN,Contains liquid PEG,42,https://doi.org/10.1016/j.jnoncrysol.2018.04.052,10.1016/j.jnoncrysol.2018.04.052
+3,2016,Vanitha,Mix,Mix,PVA/PVP (1:1),"125000 (PVA), 90000 (PVP)",Purchased,Solvent casting,NaCl,15%,NaN,1.75E-06,NaN,NaN,107,NaN,NaN,NaN,NaN,NaN,Poor experimental details,43,https://doi.org/10.1007/s10904-016-0468-6,10.1007/s10904-016-0468-6
+4,2020,Saroj,Mix,Mix,PVA/PVP (1:1),"125000 (PVA), 44000 (PVP)",Purchased,Solvent casting,NaI,30%,NaN,5.07E-06,9.00E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,53,https://doi.org/10.1016/j.physb.2019.411850,10.1016/j.physb.2019.411850
+5,2018,Duraikkan,Mix,Mix,PVA-PVP (1:1),"125000, 90000",Purchased,Solvent casting,NaNO3,1%,NaN,3.90E-07,NaN,NaN,154,NaN,350,NaN,NaN,NaN,,57,https://doi.org/10.1007/s11581-017-2169-8,10.1007/s11581-017-2169-8
+6,2018,Duraikkan,Mix,Mix,PVA-PVP (1:1),"125000, 90000",Purchased,Solvent casting,NaNO3,2%,NaN,2.88E-05,NaN,NaN,101,NaN,350,NaN,NaN,NaN,,57,https://doi.org/10.1007/s11581-017-2169-8,10.1007/s11581-017-2169-8
+7,2018,Duraikkan,Mix,Mix,PVA-PVP (1:1),"125000, 90000",Purchased,Solvent casting,NaNO3,3%,NaN,3.98E-06,NaN,NaN,125,NaN,350,NaN,NaN,NaN,,57,https://doi.org/10.1007/s11581-017-2169-8,10.1007/s11581-017-2169-8
+8,2018,Duraikkan,Mix,Mix,PVA-PVP (1:1),"125000, 90000",Purchased,Solvent casting,NaNO3,4%,NaN,3.33E-06,NaN,NaN,131,NaN,350,NaN,NaN,NaN,,57,https://doi.org/10.1007/s11581-017-2169-8,10.1007/s11581-017-2169-8
+9,2018,Duraikkan,Mix,Mix,PVA-PVP (1:1),"125000, 90000",Purchased,Solvent casting,NaNO3,5%,NaN,2.14E-06,NaN,NaN,141,NaN,350,NaN,NaN,NaN,,57,https://doi.org/10.1007/s11581-017-2169-8,10.1007/s11581-017-2169-8
+10,2014,Sannappa,Other,Polysaccharide,Hydroxypropyl methylcellulose,NaN,Purchased,Solvent casting,NaI,44.4%,NaN,NaN,1.58E-05,NaN,NaN,83.33,NaN,NaN,NaN,NaN,,8,https://doi.org/10.1007/s11581-013-0952-8,10.1007/s11581-013-0952-8
+11,2017,Aziz,Other,Polysaccharide,Chitosan,NaN,Purchased,Solvent casting,NaOTf,40%,NaN,2.41E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,9,https://doi.org/10.3390/polym9060187,10.3390/polym9060187
+12,2018,Ma,Other,Polysaccharide,PMMA-PPEGMA-bCyclodextrin,3E+05,3-step polymerization,Solvent casting,NaOTf,25%,NaN,2.83E-05,1.78E-04,NaN,-52.2,NaN,300,5.2,9.4,1240.00,does not melt,10,https://doi.org/10.1016/j.jpowsour.2018.07.096,10.1016/j.jpowsour.2018.07.096
+13,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,10%,NaN,1.00E-07,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+14,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,14%,NaN,1.00E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+15,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,18%,NaN,1.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+16,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,20%,NaN,1.58E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+17,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,24%,NaN,1E-04,3.16E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+18,2010,Osman,PAN,PAN,PAN,2E+05,Purchased,Solvent casting,NaOtf,5%,NaN,1.00E-10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,28,https://doi.org/10.1007/s11581-009-0410-9,10.1007/s11581-009-0410-9
+19,2018,Zhanliang Tao,Mix,Polyacrylate,65:35 PMA/PEG + 5% Al2O3,600 (PEG),Polymerization of methacrylate in PEG solution,Solvent casting,NaClO4,NaN,NaN,NaN,1.46E-04,NaN,NaN,NaN,250,2 - 4.5,NaN,NaN,,37,https://doi.org/10.1007/s12274-018-2144-3,10.1007/s12274-018-2144-3
+20,2018,Christopher Li,Other,PEG derivative,Octakis(3?glycidyloxypropyldimethylsiloxy)octasilsesquioxane and amine?terminated polyethylene glycol,2E+03,One-pot polymerization at 60 �C,Solvent casting,NaClO4,NaN,5,4.20E-09,1.30E-05,NaN,9.11,NaN,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1002/aenm.201801885,10.1002/aenm.201801885
+21,2018,Christopher Li,Other,PEG derivative,Octakis(3?glycidyloxypropyldimethylsiloxy)octasilsesquioxane and amine?terminated polyethylene glycol,2E+03,One-pot polymerization at 60 �C,Solvent casting,NaClO4,NaN,12,1.70E-06,1.80E-04,NaN,-22.81,NaN,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1002/aenm.201801885,10.1002/aenm.201801885
+22,2018,Christopher Li,Other,PEG derivative,Octakis(3?glycidyloxypropyldimethylsiloxy)octasilsesquioxane and amine?terminated polyethylene glycol,2E+03,One-pot polymerization at 60 �C,Solvent casting,NaClO4,NaN,16,4.50E-06,2.60E-04,0.230,-28.52,NaN,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1002/aenm.201801885,10.1002/aenm.201801885
+23,2018,Christopher Li,Other,PEG derivative,Octakis(3?glycidyloxypropyldimethylsiloxy)octasilsesquioxane and amine?terminated polyethylene glycol,2E+03,One-pot polymerization at 60 �C,Solvent casting,NaClO4,NaN,25,2.10E-06,3.70E-05,NaN,-45.05,25,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1002/aenm.201801885,10.1002/aenm.201801885
+24,2018,Christopher Li,Other,PEG derivative,Octakis(3?glycidyloxypropyldimethylsiloxy)octasilsesquioxane and amine?terminated polyethylene glycol,2E+03,One-pot polymerization at 60 �C,Solvent casting,NaClO4,NaN,50,1.60E-06,1.60E-05,NaN,-50.08,24,NaN,NaN,NaN,NaN,,41,https://doi.org/10.1002/aenm.201801885,10.1002/aenm.201801885
+25,2019,Xue,Other,PEG derivative,EGDMA-PEGDMA (Mn of PEGDmA = 350),NaN,Template-assisted cyclopolymerization,Solvent casting,NaClO4,10%,NaN,7.94E-06,7.94E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,52,https://doi.org/10.1016/j.memsci.2019.01.051,10.1016/j.memsci.2019.01.051
+26,2019,Xue,Other,PEG derivative,EGDMA-PEGDMA (Mn of PEGDmA = 550),NaN,Template-assisted cyclopolymerization,Solvent casting,NaClO4,10%,NaN,7.08E-07,2.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,52,https://doi.org/10.1016/j.memsci.2019.01.051,10.1016/j.memsci.2019.01.051
+27,2019,Xue,Other,PEG derivative,EGDMA-PEGDMA (Mn of PEGDmA = 750),NaN,Template-assisted cyclopolymerization,Solvent casting,NaClO4,10%,NaN,5.62E-07,6.31E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,52,https://doi.org/10.1016/j.memsci.2019.01.051,10.1016/j.memsci.2019.01.051
+28,2017,Zhibin Zhou,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaFNFSI,NaN,15,2.00E-06,3.36E-04,0.240,-36.3,61,300,2.5-4.8,NaN,NaN,,1,https://doi.org/10.1039/C7TA01820G,10.1039/C7TA01820G
+29,2017,Wieczorek,PEO,PEO,PEO,4E+06,Purchased,Hot-pressing,NaPF6,NaN,16,2.48E-05,3.10E-04,NaN,-29.4,57,NaN,0 - 4.5,NaN,NaN,,2,https://doi.org/10.1038/srep40036 ,10.1038/srep40036 
+30,2017,Wieczorek,PEO,PEO,PEO,4E+06,Purchased,Hot-pressing,Sodium pentacyanopropenide ,NaN,16,6.20E-06,5.30E-04,NaN,-36.1,51,NaN,1 - 3,NaN,NaN,,2,https://doi.org/10.1038/srep40036 ,10.1038/srep40036 
+31,2017,Wieczorek,PEO,PEO,PEO,4E+06,Purchased,Hot-pressing,Sodium tetracyanopirolate,NaN,16,4.40E-05,1.57E-03,NaN,-30.7,52,NaN,0 - 5,NaN,NaN,,2,https://doi.org/10.1038/srep40036 ,10.1038/srep40036 
+32,2017,Wieczorek,PEO,PEO,PEO,4E+06,Purchased,Hot-pressing,Sodium tricyanoimidazolate ,NaN,16,3.27E-05,7.70E-04,NaN,-37.8,49,NaN,0 - 5,NaN,NaN,,2,https://doi.org/10.1038/srep40036 ,10.1038/srep40036 
+33,2014,Kumar,Mix,PEO blend,PEO/PVP (25:9),"4000000 (PEO), 130000 (PVP)",Purchased,Solvent casting,NaBr,15%,NaN,1.58E-06,1.26E-05,0.579,50.68,61.77,350,NaN,NaN,NaN,,3,https://doi.org/10.1016/j.memsci.2013.12.022,10.1016/j.memsci.2013.12.022
+34,2013,Chandra,PEO,PEO,PEO,1E+05,Purchased,Hot-pressing,NaPO3,25%,NaN,6.70E-07,2.75E-06,NaN,NaN,64,250,NaN,NaN,NaN,,4,https://doi.org/10.1007/s10118-013-1347-z,10.1007/s10118-013-1347-z
+35,2015,Gerbaldi,Mix,PEO blend,PEO/CMC (9:1),"400000 (PEO), 250000 (CMC)",Purchased,Solvent casting + hot-pressing,NaClO4,9%,NaN,4.00E-07,1.00E-03,0.150,-7,NaN,290,0 - 4.5,NaN,NaN,,5,https://doi.org/10.1016/j.electacta.2015.05.178,10.1016/j.electacta.2015.05.178
+36,2015,Gerbaldi,PEO,PEO,PEO,4E+05,Purchased,Solvent casting + hot-pressing,NaClO4,10%,NaN,6.00E-07,1.00E-03,NaN,-12,NaN,350,NaN,NaN,NaN,,5,https://doi.org/10.1016/j.electacta.2015.05.178,10.1016/j.electacta.2015.05.178
+37,2007,Bhide,PEO,PEO,PEO,4E+06,Purchased,Solvent casting,NaPO3,NaN,6,NaN,NaN,0.23,-53.1,62.3,NaN,NaN,NaN,NaN,,6,https://doi.org/10.1002/pi.2379,10.1002/pi.2379
+38,2015,Hwang,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaClO4,NaN,10,1.00E-05,1.12E-04,NaN,NaN,60,NaN,NaN,NaN,NaN,,7,https://doi.org/10.1016/j.jpowsour.2014.11.047,10.1016/j.jpowsour.2014.11.047
+39,2015,Hwang,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaClO4,NaN,15,1.41E-05,1.58E-04,NaN,NaN,64,NaN,NaN,NaN,NaN,,7,https://doi.org/10.1016/j.jpowsour.2014.11.047,10.1016/j.jpowsour.2014.11.047
+40,2015,Hwang,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaClO4,NaN,20,1.50E-05,2.00E-04,NaN,NaN,71,NaN,NaN,NaN,NaN,,7,https://doi.org/10.1016/j.jpowsour.2014.11.047,10.1016/j.jpowsour.2014.11.047
+41,2015,Hwang,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaClO4,NaN,30,1.58E-05,2.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,7,https://doi.org/10.1016/j.jpowsour.2014.11.047,10.1016/j.jpowsour.2014.11.047
+42,2018,Ma,PEO,PEO,PEO,1E+06,Purchased,Solvent casting,NaOTf,NaN,20,1.06E-06,1.26E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,10,https://doi.org/10.1016/j.jpowsour.2018.07.096,10.1016/j.jpowsour.2018.07.096
+43,2018,Koduru,Mix,PEO blend,70:30 PEO/PVP+GO nanocomposite ,"5000000 (PEO), 360000 (PVP)",Purchased,Solvent casting,NaIO4,10%,NaN,1.89E-06,NaN,NaN,55,66,390.78,NaN,5.33,3.00,,17,https://doi.org/10.1007/s11581-018-2484-8,10.1007/s11581-018-2484-8
+44,2016,Yong?Sheng Hu,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaFSI,NaN,20,NaN,4.10E-04,0.16,-37.90,57.7,263,2.5 - 4.66,NaN,NaN,,18,https://doi.org/10.1002/celc.201600221,10.1002/celc.201600221
+45,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,6,NaN,7.00E-04,NaN,-37.50,48.4,NaN,NaN,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+46,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,8,NaN,7.00E-04,NaN,-22.80,52,NaN,NaN,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+47,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,10,NaN,7.00E-04,NaN,-41.60,36.3,NaN,NaN,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+48,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,12,2.00E-05,1.50E-03,NaN,-34.00,49.8,NaN,NaN,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+49,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,20,NaN,1.00E-03,0.39,-35.30,61.4,NaN,0 - 4.8,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+50,2014,Moreno,PEO,PEO,PEO,6E+05,Purchased,Solvent casting,NaTFSI,NaN,30,NaN,2.50E-04,NaN,-49.20,64.2,NaN,NaN,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+51,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaFSI,NaN,6,2.50E-07,1.00E-04,NaN,-17,62,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+52,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaFSI,NaN,9.00,9.00E-06,1.75E-04,NaN,-31,57,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+53,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaFSI,NaN,20,2.00E-06,3.00E-04,NaN,-32,35,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+54,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,6,2.50E-06,9.00E-05,NaN,-9,53,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+55,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,9.00,1.50E-05,3.00E-04,NaN,-31,32,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+56,2015,Boschin,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,20,3.00E-06,2.50E-04,NaN,-29,29,NaN,NaN,NaN,NaN,,21,https://doi.org/10.1016/j.electacta.2015.03.228,10.1016/j.electacta.2015.03.228
+57,1983,Armand,PEO,PEO,PEO,900000,Purchased,Solvent casting,NaI,NaN,10,0.0000004,0.0005,NaN,-13,53,NaN,NaN,NaN,NaN,,22,https://doi.org/10.1016/0167-2738(83)90068-1,10.1016/0167-2738(83)90068-1
+58,1988,Skaarup,PEO,PEO,PEO,4000000,Purchased,Solvent casting,NaClO4,NaN,4,2.02779E-08,2.58324E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,24,https://doi.org/10.1002/pi.4980200315,10.1002/pi.4980200315
+59,1988,Skaarup,PEO,PEO,PEO,4000000,Purchased,Solvent casting,NaClO4,NaN,8,4.07293E-07,0.00014104,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,24,https://doi.org/10.1002/pi.4980200315,10.1002/pi.4980200315
+60,1988,Skaarup,PEO,PEO,PEO,4000000,Purchased,Solvent casting,NaClO4,NaN,12,4.07293E-07,0.00065,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,24,https://doi.org/10.1002/pi.4980200315,10.1002/pi.4980200315
+61,1988,Skaarup,PEO,PEO,PEO,4000000,Purchased,Solvent casting,NaClO4,NaN,16,4.07293E-07,0.000383386,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,24,https://doi.org/10.1002/pi.4980200315,10.1002/pi.4980200315
+62,1982,Shriver,PEO,PEO,PEO,600000,Purchased,Solvent casting,NaBF4,NaN,4.5,NaN,6.33733E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,25,https://doi.org/10.1021/ja00387a014,10.1021/ja00387a014
+63,1982,Shriver,PEO,PEO,PEO,600000,Purchased,Solvent casting,NaBH4,NaN,4.5,NaN,1.05026E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,25,https://doi.org/10.1021/ja00387a014,10.1021/ja00387a014
+64,1995,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaOTf,NaN,8,NaN,1.54E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,26,https://doi.org/10.1149/1.2044206,10.1149/1.2044206
+65,1995,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaOTf,NaN,12,NaN,1.99E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,26,https://doi.org/10.1149/1.2044206,10.1149/1.2044206
+66,1995,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaOTf,NaN,20,NaN,3.13E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,26,https://doi.org/10.1149/1.2044206,10.1149/1.2044206
+67,1997,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,8,NaN,6.60E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,27,https://doi.org/10.1149/1.1837419,10.1149/1.1837419
+68,1997,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,10,NaN,6.38E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,27,https://doi.org/10.1149/1.1837419,10.1149/1.1837419
+69,1997,Yanping Ma,PEO,PEO,PEO,5E+06,Purchased,Solvent casting,NaTFSI,NaN,20,NaN,1.09E-03,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,27,https://doi.org/10.1149/1.1837419,10.1149/1.1837419
+70,2018,Van W�llen,PEO,PEO plasticized,PEO:SN (6:1),3E+05,Electrospinning,Electrospinning,NaBF4,NaN,18,3.00E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,38,https://doi.org/10.1016/j.jpowsour.2017.12.083,10.1016/j.jpowsour.2017.12.083
+71,2018,Van W�llen,PEO,PEO,PEO,3E+05,Electrospinning,Electrospinning,NaBF4,NaN,18,4.00E-05,NaN,NaN,-48,55,NaN,NaN,NaN,NaN,,38,https://doi.org/10.1016/j.jpowsour.2017.12.083,10.1016/j.jpowsour.2017.12.083
+72,2018,Van W�llen,PEO,PEO,PEO,3E+05,Electrospinning,Electrospinning,NaBF4,NaN,36,6.00E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,38,https://doi.org/10.1016/j.jpowsour.2017.12.083,10.1016/j.jpowsour.2017.12.083
+73,2018,Van W�llen,PEO,PEO plasticized,PEO:SN (9:1),3E+05,Electrospinning,Electrospinning,NaBF4,NaN,36,6.50E-05,NaN,NaN,-48,NaN,NaN,NaN,NaN,NaN,,38,https://doi.org/10.1016/j.jpowsour.2017.12.083,10.1016/j.jpowsour.2017.12.083
+74,2017,Hong-Sheng Hu,PEO,PEO,PEO,6E+05,Sol-gel,Solvent casting,NaNTf2 ,NaN,14,5.01E-06,1.26E-03,NaN,NaN,66.7,237.5,2.5 - 4.3,NaN,NaN,,39,https://doi.org/10.1016/j.jpowsour.2017.10.083,10.1016/j.jpowsour.2017.10.083
+75,2018,Sheeba,PEO,PEO,PEO,5.00E+06,Purchased,Solvent casting,Sodium lauryl sulphate,NaN,40,4.04E-07,NaN,NaN,NaN,66,NaN,NaN,NaN,NaN,,44,https://doi.org/10.1007/s11581-018-2799-5,10.1007/s11581-018-2799-5
+76,2018,Singh,PEO,PEO,PEO,6.00E+05,Purchased,Solvent casting,NaTFSI,10%,NaN,1.08E-06,NaN,NaN,-46,69,330,NaN,NaN,NaN,,45,https://doi.org/10.1007/s10008-018-3891-5,10.1007/s10008-018-3891-5
+77,2019,Gupta,PEO,PEO,PEO,1.00E+06,Purchased,Solvent casting,Disodium terephthalate,NaN,8,6.31E-10,7.08E-07,NaN,NaN,68.5,200,NaN,NaN,NaN,,54,https://doi.org/10.1002/app.47612,10.1002/app.47612
+78,2019,Gupta,PEO,PEO,PEO,1.00E+06,Purchased,Solvent casting,Disodium terephthalate,NaN,10,3.16E-08,7.94E-07,NaN,NaN,64.1,200,NaN,NaN,NaN,,54,https://doi.org/10.1002/app.47612,10.1002/app.47612
+79,2019,Gupta,PEO,PEO,PEO,1.00E+06,Purchased,Solvent casting,Disodium terephthalate,NaN,30,7.94E-09,7.50E-07,NaN,NaN,69.4,200,NaN,NaN,NaN,,54,https://doi.org/10.1002/app.47612,10.1002/app.47612
+80,2019,Gupta,PEO,PEO,PEO,1.00E+06,Purchased,Solvent casting,Disodium terephthalate,NaN,100,5.62E-09,7.94E-07,NaN,NaN,69.6,200,NaN,NaN,NaN,,54,https://doi.org/10.1002/app.47612,10.1002/app.47612
+81,2019,Yong?Sheng Hu,PEO,PEO,PEO,600000,Purchased,Solvent casting + polymerization of residual solvent,NaFSI,NaN,20,2.51E-06,6.31E-04,NaN,NaN,70,NaN,NaN,NaN,NaN,,56,https://doi.org/10.1021/acsenergylett.9b00857,10.1021/acsenergylett.9b00857
+82,2009,Bruce,PEO,PEO crystalline,Cyrstalline PEO,1000,Purchased,Mechanical grinding (dry) + heat treatment,NaAsF6,NaN,8,2.00E-06,NaN,NaN,NaN,71,NaN,NaN,NaN,NaN,,58,https://doi.org/10.1038/nmat2474,10.1038/nmat2474
+83,2009,Bruce,PEO,PEO crystalline,Cyrstalline PEO,1000,Purchased,Mechanical grinding (dry) + heat treatment,NaPF6,NaN,8,1.00E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,58,https://doi.org/10.1038/nmat2474,10.1038/nmat2474
+84,2007,Bhide,PEO,PEO + NP additives,PEO + 6% BaTiO3,4E+06,Purchased,Solvent casting,NaPO3,NaN,6,NaN,NaN,0.33,-51.9,61.7,NaN,NaN,NaN,NaN,,6,https://doi.org/10.1002/pi.2379,10.1002/pi.2379
+85,2015,Hwang,PEO,PEO + NP additives,PEO + 5% TiO2,6E+05,Purchased + hydrothermal (200 �C),Solvent casting,NaClO4,NaN,20,2.00E-05,3.98E-04,NaN,NaN,58,NaN,1.25 - 4.6,NaN,NaN,,7,https://doi.org/10.1016/j.jpowsour.2014.11.047,10.1016/j.jpowsour.2014.11.047
+86,2014,Moreno,PEO,PEO + NP additives,PEO + 5% SiO2,6E+05,Purchased,Solvent casting,NaTFSI,NaN,20,1.70E-05,1.50E-03,0.51,-37.00,57.4,NaN,0 - 4.9,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+87,2014,Moreno,PEO,PEO + NP additives,PEO + 10% SiO2,6E+05,Purchased,Solvent casting,NaTFSI,NaN,20,NaN,5.00E-04,0.48,-36.10,57.5,NaN,0 - 4.8,NaN,NaN,,19,https://doi.org/10.1016/j.jpowsour.2013.09.137,10.1016/j.jpowsour.2013.09.137
+88,2017,Shufeng Song,PEO,PEO + NP additives,PEO + 5% SiO2,1E+06,Purchased + ball milling,Solvent casting,NaClO4,NaN,20,8.40E-05,NaN,NaN,NaN,NaN,NaN,0.6 - 4.2,NaN,NaN,,20,https://doi.org/10.1039/C6TA11165C,10.1039/C6TA11165C
+89,2018,Sheeba,PEO,PEO + NP additives,PEO + 3% MgO,5.00E+06,Purchased,Solvent casting,Sodium lauryl sulphate,NaN,40,4.33E-07,NaN,NaN,NaN,65.8,NaN,NaN,NaN,NaN,,44,https://doi.org/10.1007/s11581-018-2799-5,10.1007/s11581-018-2799-5
+90,2018,Sheeba,PEO,PEO + NP additives,PEO + 10% MgO,5.00E+06,Purchased,Solvent casting,Sodium lauryl sulphate,NaN,40,4.48E-07,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,44,https://doi.org/10.1007/s11581-018-2799-5,10.1007/s11581-018-2799-5
+91,2018,Sheeba,PEO,PEO + NP additives,PEO + 5% MgO,5.00E+06,Purchased,Solvent casting,Sodium lauryl sulphate,NaN,40,1.10E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,44,https://doi.org/10.1007/s11581-018-2799-5,10.1007/s11581-018-2799-5
+92,2019,Yong?Sheng Hu,PEO,PEO + NP additives,PEO + 1% Al2O3,600000,Solvent casting,Solvent casting,NaFSI,NaN,20,3.16E-06,9.52E-04,NaN,NaN,67,NaN,NaN,NaN,NaN,,56,https://doi.org/10.1021/acsenergylett.9b00857,10.1021/acsenergylett.9b00857
+93,2013,Chandra,PEO,PEO blend,PEO + 3% PVP,1E+05,Hot-pressing,Hot-pressing,NaPO3,25%,NaN,1.07E-05,6.31E-05,NaN,NaN,62,300,NaN,NaN,NaN,,4,http://doi.org/10.1007/s10118-013-1347-z,10.1007/s10118-013-1347-z
+94,2018,Koduru,Mix,PEO blend,70:30 PEO/PVP nanocomposite ,"5000000 (PEO), 360000 (PVP)",Purchased,Solvent casting,NaIO4,10%,NaN,1.56E-07,NaN,NaN,50,67,366.21,NaN,5.23,NaN,,17,https://doi.org/10.1007/s11581-018-2484-8,10.1007/s11581-018-2484-8
+95,2011,Kumar,Mix,PEO blend,PEO/PVP blend (62.5:22.5),NaN,Purchased,Solvent casting,NaF,15%,NaN,1.19E-07,1.00E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,31,https://doi.org/10.1016/j.physb.2011.02.010,10.1016/j.physb.2011.02.010
+96,1988,Greenbaum,PEO,PEO crosslinked,"PEO, oxymethylene-crosslinked",NaN,Purchased,Solvent casting,NaI,NaN,9,2.51189E-07,NaN,NaN,-14,NaN,NaN,NaN,NaN,NaN,,23,https://doi.org/10.1016/0032-3861(89)90091-8,10.1016/0032-3861(89)90091-8
+97,1988,Greenbaum,PEO,PEO crosslinked,"PEO, oxymethylene-crosslinked",NaN,Purchased,Solvent casting,NaOTf,NaN,9,5.01187E-06,NaN,NaN,-22,NaN,NaN,NaN,NaN,NaN,,23,https://doi.org/10.1016/0032-3861(89)90091-8,10.1016/0032-3861(89)90091-8
+98,2013,Armand,Mix,Single-ion conductor,"Sodium 2-[(trifluoromethane-sulfonylimido)-N-4-sulfonylphenyl]ethyl grafted to SiO2, dispersed in 1:1 mixture of PEGDME and PEO",NaN,Multi-step synthesis,Not Specified,Not Specified,NaN,10,2.00E-05,3.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,34,https://doi.org/10.1039/C3TA11290J,10.1039/C3TA11290J
+99,2013,Armand,Mix,Single-ion conductor,"Sodium 2-[(trifluoromethane-sulfonylimido)-N-4-sulfonylphenyl]ethyl grafted to PEG and SiO2, dispersed in 1:1 mixture of PEGDME and PEO",NaN,Multi-step synthesis,Not Specified,Not Specified,NaN,20,2.00E-05,2.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,34,https://doi.org/10.1039/C3TA11290J,10.1039/C3TA11290J
+100,2014,Forsyth,Poly(IL),Poly(IL),poly([N1222][AMPS]-co-Na[VS]),NaN,Radical polymerization,Not Applicable,Triethylmethylamine,10%,NaN,NaN,1.00E-08,NaN,130,NaN,NaN,NaN,NaN,NaN,,35,https://doi.org/10.1039/C3TA13835F,10.1039/C3TA13835F
+101,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaClO4,NaN,5,1.00E-08,1.00E-05,NaN,2,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+102,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaClO4,NaN,13,3.50E-09,2.00E-06,NaN,-4.5,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+103,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaClO4,NaN,21,2.50E-09,9.00E-07,NaN,-8,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+104,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,3,2.00E-08,3.50E-04,NaN,0,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+105,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,5,8.00E-09,2.00E-05,NaN,-0.5,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+106,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,8,3.00E-09,5.00E-06,NaN,-6,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+107,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,13,1.50E-09,1.50E-06,NaN,-6,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+108,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,21,7.00E-10,3.00E-07,NaN,-11,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+109,2017,Brandell,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),NaN,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaTFSI,NaN,44,4.00E-10,9.00E-08,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,16,https://doi.org/10.1016/j.elecom.2017.02.013,10.1016/j.elecom.2017.02.013
+110,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,1,5.00E-05,9.00E-04,NaN,-4.5,NaN,NaN,0 - 3.2,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+111,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,2,6.00E-07,1.50E-04,NaN,-1.5,NaN,NaN,NaN,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+112,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,3,1.50E-08,2.50E-05,NaN,7.25,NaN,NaN,NaN,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+113,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,5,2.00E-08,2.00E-05,0.48,9.25,NaN,NaN,0 - 4.8,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+114,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,8,2.00E-08,1.00E-05,NaN,1.75,NaN,NaN,NaN,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+115,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,13,2.00E-08,7.00E-06,NaN,-5,NaN,NaN,NaN,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+116,2019,Mindermark,Polycarbonate,Polycarbonate,Poly(trimethylene carbonate),185000 - 334000,Ring-opening polymerization of trimethylene carbonate,Solvent casting,NaFSI ,NaN,21,5.00E-09,2.00E-06,NaN,-6,NaN,NaN,NaN,NaN,NaN,salt ratio refers to carbonate:Na ratio,46,https://doi.org/10.1021/acsapm.9b00068,10.1021/acsapm.9b00068
+117,2019,Brandell,Polyester,Polyester,Polycaprolactone,5E+04,Purchased,Solvent casting,NaFSI ,25%,NaN,1.50E-05,1.50E-05,NaN,-31,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1016/j.ensm.2019.03.022,10.1016/j.ensm.2019.03.022
+118,2019,Brandell,Mix,Polyester blend,7:3 polycaprolactone�polytrimethylene carbonate copolymer,NaN,Ring-opening polymerization of trimethylene carbonate and ?-caprolactone (130 �C under pressure and argon),Solvent casting,NaFSI ,25%,NaN,1.75E-06,1.50E-04,NaN,-17.5,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1016/j.ensm.2019.03.022,10.1016/j.ensm.2019.03.022
+119,2019,Brandell,Mix,Polyester blend,8:2 polycaprolactone�polytrimethylene carbonate copolymer,NaN,Ring-opening polymerization of trimethylene carbonate and ?-caprolactone (130 �C under pressure and argon),Solvent casting,NaFSI ,25%,NaN,4.00E-06,3.00E-04,0.62,-27.5,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1016/j.ensm.2019.03.022,10.1016/j.ensm.2019.03.022
+120,2019,Brandell,Mix,Polyester blend,9:1 polycaprolactone�polytrimethylene carbonate copolymer,NaN,Ring-opening polymerization of trimethylene carbonate and ?-caprolactone (130 �C under pressure and argon),Solvent casting,NaFSI ,25%,NaN,4.50E-06,2.00E-04,NaN,-32,NaN,NaN,NaN,NaN,NaN,,47,https://doi.org/10.1016/j.ensm.2019.03.022,10.1016/j.ensm.2019.03.022
+121,2008,Rao,PVA,PVA,PVA,NaN,Purchased,Solvent casting,NaBr,30%,NaN,1.36E-06,6.31E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,29,https://doi.org/10.1002/app.27566,10.1002/app.27566
+122,2008,Rao,PVA,PVA,PVA,NaN,Purchased,Solvent casting,NaBr,20%,NaN,1.06E-06,2.00E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,29,https://doi.org/10.1002/app.27566,10.1002/app.27566
+123,2008,Rao,PVA,PVA,PVA,NaN,Purchased,Solvent casting,NaBr,10%,NaN,5.96E-07,1.58E-06,0.430,NaN,NaN,NaN,NaN,NaN,NaN,,29,https://doi.org/10.1002/app.27566,10.1002/app.27566
+124,2007,Rao,PVA,PVA,PVA,NaN,Purchased,Solvent casting,NaI,30%,NaN,1.00E-05,1.00E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,48,https://doi.org/10.1080/00914030600972790,10.1080/00914030600972790
+125,2017,Abdullah,PVA,PVA,PVA,NaN,Purchased,Solvent casting,Na2MoO4,9%,NaN,1.09E-06,3.98E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,49,https://doi.org/10.1007/s10854-017-6623-1,10.1007/s10854-017-6623-1
+126,2006,Chen,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaClO3,NaN,NaN,1.78E-06,1.41E-05,0.27,NaN,NaN,NaN,-,NaN,NaN,,11,https://doi.org/10.1140/epje/i2005-10076-8,10.1140/epje/i2005-10076-8
+127,2012,Raja,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaI,30%,NaN,1.26E-06,2.00E-06,NaN,NaN,NaN,NaN,1.0 - 3.0,NaN,NaN,,12,https://doi.org/10.1007/BF02376593,10.1007/BF02376593
+128,2003,Chandrasekaran,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaClO3,30%,NaN,NaN,7.12E-05,NaN,NaN,NaN,NaN,-,NaN,NaN,,13,https://doi.org/10.1007/BF02376593,10.1007/BF02376593
+129,2003,Chandrasekaran,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaClO3,10%,NaN,NaN,1.59E-06,NaN,NaN,NaN,NaN,-,NaN,NaN,,13,https://doi.org/10.1007/BF02376593,10.1007/BF02376593
+130,2006,Chen,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaClO4,10%,NaN,1.58E-06,1.00E-05,0.270,NaN,NaN,NaN,NaN,NaN,NaN,,30,https://doi.org/10.1140/epje/i2005-10076-8,10.1140/epje/i2005-10076-8
+131,2001,Reddy,PVP,PVP,PVP,4E+04,Purchased,Solvent casting,NaClO3,10%,NaN,2.81E-07,7.94E-06,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,32,https://doi.org/10.1016/S0378-7753(01)00658-9,10.1016/S0378-7753(01)00658-9
+132,2001,Reddy,PVP,PVP,PVP,4E+04,Purchased,Solvent casting,NaClO3,20%,NaN,3.03E-07,1.58E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,32,https://doi.org/10.1016/S0378-7753(01)00658-9,10.1016/S0378-7753(01)00658-9
+133,2001,Reddy,PVP,PVP,PVP,4E+04,Purchased,Solvent casting,NaClO3,30%,NaN,3.28E-07,2.00E-05,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,32,https://doi.org/10.1016/S0378-7753(01)00658-9,10.1016/S0378-7753(01)00658-9
+134,2019,Muthuvinayagam,PVP,PVP,PVP,NaN,Purchased,Solvent casting,NaNO3,6%,NaN,1.21E-05,1.58E-04,NaN,NaN,NaN,NaN,NaN,NaN,NaN,,55,https://doi.org/10.1016/j.matlet.2018.11.133,10.1016/j.matlet.2018.11.133
+135,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-co-20EA],1E+06,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,1.00E-09,NaN,-9,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+136,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-co-2EA],1E+06,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,4.00E-12,NaN,157,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+137,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI] (Sodium poly[(4-styrenesulfonyl)(trifluoromethanesulfonyl) imide]),1E+06,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,1.00E-12,NaN,242,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+138,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-blend-10EA],NaN,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,1.00E-08,NaN,NaN,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+139,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-blend-5EA],NaN,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,2.00E-08,NaN,NaN,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+140,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-co-10EA],5E+05,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,1.00E-09,NaN,NaN,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+141,2015,Forsyth,Polymerized sodium salt,Single-ion conductor,Na[PSTFSI-co-5EA],2E+06,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,NaN,3.00E-10,NaN,NaN,NaN,250,NaN,NaN,NaN,,14,https://doi.org/10.1016/j.electacta.2015.03.075,10.1016/j.electacta.2015.03.075
+142,2017,Cheng,Mix,Single-ion conductor,"Poly(bis(4-carbonyl benzene sulfonyl)imide-co-2,5-diamino benzesulfonic acid) - PVdF-HFP mixture (5:1)",2E+04,Radical polymerization,Not Applicable,Not Applicable,NaN,NaN,9.10E-05,4.10E-04,0.83,NaN,NaN,400,0 - 6,14.44,7.77,,15,https://doi.org/10.1016/j.ssi.2016.12.001,10.1016/j.ssi.2016.12.001
+143,2006,Zwanziger,Mix,Single-ion conductor,PEG / TMOS:GLYMO:SPMP blend,NaN,Sol-gel,Solvent casting,Not Applicable,NaN,NaN,9.00E-07,9.13E-05,0.90,-71,-48,NaN,NaN,NaN,NaN,,36,https://doi.org/10.1021/cm052195l,10.1021/cm052195l
+144,2020,Armand,Mix,Single-ion conductor,PEO/ethylcellulose,5000000 (PEO),Ball-milling,Solvent casting,Not Applicable,NaN,NaN,8.00E-08,1.00E-04,0.60,NaN,NaN,NaN,0 - 4.3,NaN,NaN,,50,https://doi.org/10.1016/j.ssi.2019.115168,10.1016/j.ssi.2019.115168
+145,2019,Cui,Nonwoven composite,Single-ion conductor,PET nonwoven impregnated with poly(vinylene carbonate) / polymeric sodium tartaric acid borate blend,NaN,Radical polymerization,Solvent casting,Not Applicable,NaN,NaN,5.62E-05,NaN,0.88,53.7,NaN,372,4.6,NaN,NaN,,51,https://doi.org/10.1016/j.ssi.2019.04.022,10.1016/j.ssi.2019.04.022
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

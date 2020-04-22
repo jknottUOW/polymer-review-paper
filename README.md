@@ -10,3 +10,7 @@ This repository contains the supplementary material for the paper 'Polymer elect
 The latest version of the paper can be found here:
 
 
+### INTERNAL USE ONLY:
+
+data sets generated from R08 version of spreadsheet
+

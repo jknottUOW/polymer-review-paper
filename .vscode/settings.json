@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python37_64\\python.exe"
+=======
+    "python.pythonPath": ".venv\\Scripts\\python.exe",
+    "editor.formatOnSave": true
+>>>>>>> 3cb518361015f977dabb2449d66537f9d2b15939
 }

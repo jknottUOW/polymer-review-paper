@@ -43,7 +43,7 @@
         font-family: "Lato", sans-serif;
       }
 
-      #chart-495d6c5e, #featured-chart-495d6c5e {
+      #chart-5fac7b5d, #featured-chart-5fac7b5d {
 
         font-size: 16px;
         font-family: "Lato", sans-serif;
@@ -51,19 +51,19 @@
         fill: #454545;
       }
 
-      #chart-495d6c5e svg, #featured-chart-495d6c5e svg {
+      #chart-5fac7b5d svg, #featured-chart-5fac7b5d svg {
         max-width: 700px;
       }
 
       @media (min-width: 600px) {
-				#chart-495d6c5e{
+				#chart-5fac7b5d{
 					font-size: 20px;
 				}
 			}
     </style>
   </head>
   <body>
-    <div id="chart-495d6c5e" class="chord">
+    <div id="chart-5fac7b5d" class="chord">
     </div>
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
@@ -89,12 +89,12 @@
         innerRadius = Math.min(width, height) * 0.39;
         outerRadius = innerRadius * 1.1;
 
-      tag_id = "chart-495d6c5e";
+      tag_id = "chart-5fac7b5d";
       padding = 0.01;
-      Names = ['Performance', 'Transferrence No.', 'Safety', 'Interfacial contact', 'Ionic conductivity', 'Glass transition temp', 'Shear strength', 'Porosity', 'Elasticity', 'Tensile strength'];
-      colors = d3.schemeCategory10;
+      Names = ['Transferrence No.', 'Glass transition temperature', 'Interfacial Contact', 'Ionic conductivity', 'Shear strength', 'Porosity', 'Elasticity', 'Tensile strength'];
+      colors = ['#00FF00', '#00BFFF', '#0000FF', '#000080', '#FF69B4', '#CD5C5C', '#FF0000', '#8B0000'];
       opacityDefault = 0.8;
-      matrix = [[0, 5, 6, 4, 7, 4, 4, 4, 4, 4], [0, 0, 6, 4, 7, 4, 4, 4, 4, 4], [0, 5, 0, 4, 7, 4, 4, 4, 4, 4], [0, 5, 6, 0, 7, 4, 4, 4, 4, 4], [7, 5, 6, 4, 0, 4, 4, 4, 4, 4], [0, 5, 6, 4, 7, 0, 4, 4, 4, 4], [0, 5, 6, 4, 7, 4, 0, 4, 4, 4], [0, 5, 6, 4, 7, 4, 4, 0, 4, 4], [0, 5, 6, 4, 7, 4, 4, 4, 0, 4], [0, 5, 6, 4, 7, 4, 4, 4, 4, 0]];
+      matrix = [[0, 0, 0, 10, 0, 0, 0, 0], [0, 0, 0, 10, 0, 0, 0, 0], [0, 0, 0, 20, 10, 0, 20, 10], [10, 10, 20, 0, 10, 0, 20, 10], [0, 0, 10, 10, 0, 0, 10, 0], [0, 0, 0, 20, 0, 0, 0, 20], [0, 0, 20, 10, 10, 0, 0, 0], [0, 0, 10, 10, 0, 20, 0, 0]];
       wrap_labels = true;
       credit = false
       
